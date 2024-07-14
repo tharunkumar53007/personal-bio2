@@ -82,6 +82,18 @@ footer{
     align-items: center;
 }
 
+@media (max-width:700px){
+    
+    .work-sec .blocks{
+        width: 100px;
+        height: 100px;
+        font-size: 14px;
+    }
+   
+    footer p{
+        font-size: 14px;
+    }
 
+}
 
 
