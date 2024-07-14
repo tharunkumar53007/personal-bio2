@@ -95,5 +95,13 @@ footer{
     }
 
 }
+@media (max-width:360px){
+    
+    .work-sec .blocks{
+        width: 80px;
+        height: 70px;
+        
+    }
 
 
+}
